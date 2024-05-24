@@ -21,7 +21,5 @@ app
     console.error("Error:", err.message);
   });
 
- // Déclaration des routes
-
 
 
